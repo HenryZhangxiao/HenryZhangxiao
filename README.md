@@ -29,8 +29,9 @@ Here are some ideas to get you started:
 🌱 &nbsp; I'm on track to learn foundational AI and ML concepts including search algorithms, supervised, and unsupervised methods\
 🛠️ &nbsp; Some of my projects: [Robert Phi 3 Mini](https://github.com/HenryZhangxiao/Robert-Phi-3-Mini), [QNX Car Simulator](https://github.com/HenryZhangxiao/QNX-Car-Simulator), [Anki Automation](https://github.com/HenryZhangxiao/Anki-Automation), [Carleton Library Autobooking](https://github.com/HenryZhangxiao/Carleton-Library-Autobooking)\
 🎾 &nbsp; My hobbies include sports, personal fitness, and video games\
-💬 &nbsp; Feel free to reach out regarding exciting opportunities!\
-📄 &nbsp; You can check my [LinkedIn](https://www.linkedin.com/in/henryzhangxiao/) for more details and to contact me
+📄 &nbsp; Check out my [resume](https://www.henryzhangxiao.com/files/HenryZhangxiaoResumeLaTeX.pdf) and connect with me on [LinkedIn](https://www.linkedin.com/in/henryzhangxiao/)\
+💬 &nbsp; Feel free to reach out regarding exciting opportunities!
+
 <!-- ✉️ &nbsp; You can email me at hzhangxiao3@gatech.edu.com I'll try to respond as soon as possible!\ -->
 
 
