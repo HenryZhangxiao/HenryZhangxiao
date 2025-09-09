@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hey there!
 ![version :09.09.2025](https://img.shields.io/badge/version-09.09.2025-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=HenryZhangxiao&color=red)&nbsp;
-[![GitHub HenryZhangxiao](https://img.shields.io/github/followers/HenryZhangxiao?label=follow&style=social)](https://github.com/HenryZhangxiao)&nbsp;
+<!--[![GitHub HenryZhangxiao](https://img.shields.io/github/followers/HenryZhangxiao?label=Followers&style=social)](https://github.com/HenryZhangxiao)&nbsp;-->
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a software engineer and incoming master's student at Georgia Institute of Technology\
