@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 <!--[![GitHub HenryZhangxiao](https://img.shields.io/github/followers/HenryZhangxiao?label=Followers&style=social)](https://github.com/HenryZhangxiao)&nbsp;-->
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software engineer and incoming master's student at Georgia Institute of Technology\
-💻 &nbsp; I'm interested in the fields of Artificial Intelligence, Reinforcement Learning, and Machine Learning\
+💻 &nbsp; I'm a software engineer and incoming master's student at Georgia Institute of Technology\
+🧠 &nbsp; I'm interested in the fields of Artificial Intelligence, Reinforcement Learning, and Machine Learning\
 🎓 &nbsp; MS Computer Science AI Specialization @ Georgia Tech (Starting Jan 2026). BCS Honors @ Carleton University (2024)\
 🌱 &nbsp; I'm on track to learn foundational AI and ML concepts including search algorithms, supervised, and unsupervised methods\
 🛠️ &nbsp; Some of my projects: [Robert Phi 3 Mini](https://github.com/HenryZhangxiao/Robert-Phi-3-Mini), [QNX Car Simulator](https://github.com/HenryZhangxiao/QNX-Car-Simulator), [Anki Automation](https://github.com/HenryZhangxiao/Anki-Automation), [Carleton Library Autobooking](https://github.com/HenryZhangxiao/Carleton-Library-Autobooking)\
