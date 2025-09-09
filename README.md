@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 💻 &nbsp; I'm interested in the fields of Artificial Intelligence, Reinforcement Learning, and Machine Learning\
 🎓 &nbsp; MS Computer Science AI Specialization @ Georgia Tech (Starting Jan 2026). BCS Honors @ Carleton University (2024)\
 🌱 &nbsp; I'm on track to learn foundational AI and ML concepts including search algorithms, supervised, and unsupervised methods\
-🛠️ &nbsp; My projects: [Robert Phi 3 Mini](https://github.com/HenryZhangxiao/Robert-Phi-3-Mini), [QNX Car Simulator](https://github.com/HenryZhangxiao/QNX-Car-Simulator), [Anki Automation](https://github.com/HenryZhangxiao/Anki-Automation), [Carleton Library Autobooking](https://github.com/HenryZhangxiao/Carleton-Library-Autobooking), [Nintendo Switch Autoclicker](https://github.com/HenryZhangxiao/Nintendo-Switch-Autoclicker), [QOTRT](https://github.com/HenryZhangxiao/Quests-Of-The-Round-Table)\
+🛠️ &nbsp; Some of my projects: [Robert Phi 3 Mini](https://github.com/HenryZhangxiao/Robert-Phi-3-Mini), [QNX Car Simulator](https://github.com/HenryZhangxiao/QNX-Car-Simulator), [Anki Automation](https://github.com/HenryZhangxiao/Anki-Automation), [Carleton Library Autobooking](https://github.com/HenryZhangxiao/Carleton-Library-Autobooking)\
 🎾 &nbsp; My hobbies include sports, personal fitness, and video games\
 💬 &nbsp; Feel free to reach out regarding exciting opportunities!\
 📄 &nbsp; You can check my [LinkedIn](https://www.linkedin.com/in/henryzhangxiao/) for more details and to contact me
