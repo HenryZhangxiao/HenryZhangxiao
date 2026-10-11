@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 🎓 &nbsp; MS Computer Science AI Specialization @ Georgia Tech. BCS Honors @ Carleton University\
 🌱 &nbsp; I'm on track to learn foundational AI and ML concepts including search algorithms, supervised, and unsupervised methods\
 🛠️ &nbsp; Some of my projects: [Robert Phi 3 Mini](https://github.com/HenryZhangxiao/Robert-Phi-3-Mini), [QNX Car Simulator](https://github.com/HenryZhangxiao/QNX-Car-Simulator), [Anki Automation](https://github.com/HenryZhangxiao/Anki-Automation), [Carleton Library Autobooking](https://github.com/HenryZhangxiao/Carleton-Library-Autobooking)\
-🎾 &nbsp; My hobbies include sports, personal fitness, and video games\
+🎾 &nbsp; My hobbies include poker, sports, personal fitness, and video games\
 📄 &nbsp; Check out my [resume](https://www.henryzhangxiao.com/files/HenryZhangxiaoResumeLaTeX.pdf) and connect with me on [LinkedIn](https://www.linkedin.com/in/henryzhangxiao/)\
 💬 &nbsp; Feel free to reach out regarding exciting opportunities!
 
